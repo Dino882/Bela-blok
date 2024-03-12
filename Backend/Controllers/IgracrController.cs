@@ -1,9 +1,10 @@
-﻿using Backend.Data;
+﻿
+using Backend.Data;
 using Backend.Models;
 using EdunovaAPP.Data;
 using Microsoft.AspNetCore.Mvc;
 
-namespace EdunovaAPP.Controllers
+namespace Backend.Controllers
 {
     [ApiController]
     [Route("api/v1/[controller]")]
